@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import ToolLayout from "@/components/ToolLayout";
-import CompressPdfTool from "@/components/CompressPdfTool";
+import CompressPdfTool from "@/app/image-compressor/page";
 
 export const metadata: Metadata = {
   title: "Compress PDF Online Free – Reduce PDF Size Instantly",

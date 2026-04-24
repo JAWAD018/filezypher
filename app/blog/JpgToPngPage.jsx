@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import ToolLayout from "@/components/ToolLayout";
-import JpgToPngTool from "@/components/JpgToPngTool";
+import JpgToPngTool from "@/app/jpg-to-png/page";
 
 export const metadata: Metadata = {
   title: "Free JPG to PNG Converter Online – No Quality Loss",
